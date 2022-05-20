@@ -1,2 +1,2 @@
-# Hecate - Hackathon Microsoft 2017
 # Design Vision & Manifesto 
+# Hecate - Hackathon Microsoft 2017
